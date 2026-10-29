@@ -1,3 +1,6 @@
+> [!WARNING]
+> This example is archived and no longer maintained. For current examples, see [telephony docs](https://docs.livekit.io/telephony/).
+
 # 📞 LiveKit SIP Agent Example 🤖
 
 This project demonstrates how to create a LiveKit Agent that can answer SIP calls using Twilio as the SIP provider.
